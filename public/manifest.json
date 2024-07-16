@@ -1,0 +1,24 @@
+{
+  "name": "Nextjs Starter",
+  "short_name": "Nextjs",
+  "theme_color": "#00ff00",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    { "src": "/logo/logo-16.png", "type": "image/png", "sizes": "16x16" },
+    { "src": "/logo/logo-48.png", "type": "image/png", "sizes": "48x48" },
+    { "src": "/logo/logo-64.png", "type": "image/png", "sizes": "64x64" },
+    { "src": "/logo/logo-72.png", "type": "image/png", "sizes": "72x72" },
+    { "src": "/logo/logo-96.png", "type": "image/png", "sizes": "96x96" },
+    { "src": "/logo/logo-128.png", "type": "image/png", "sizes": "128x128" },
+    { "src": "/logo/logo-144.png", "type": "image/png", "sizes": "144x144" },
+    { "src": "/logo/logo-152.png", "type": "image/png", "sizes": "152x152" },
+    { "src": "/logo/logo-180.png", "type": "image/png", "sizes": "180x180" },
+    { "src": "/logo/logo-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/logo/logo-256.png", "type": "image/png", "sizes": "256x256" },
+    { "src": "/logo/logo-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
